@@ -39,7 +39,6 @@ DOMAIN,speedtest.macpaw.com,DIRECT
 # > Private Tracker
 DOMAIN-SUFFIX,acg.rip,DIRECT
 DOMAIN-SUFFIX,animebytes.tv,DIRECT
-DOMAIN-SUFFIX,awesome-hd.me,DIRECT
 DOMAIN-SUFFIX,broadcasthe.net,DIRECT
 DOMAIN-SUFFIX,chdbits.co,DIRECT
 DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
@@ -69,5 +68,14 @@ DOMAIN-SUFFIX,redacted.ch,DIRECT
 DOMAIN-SUFFIX,springsunday.net,DIRECT
 DOMAIN-SUFFIX,tjupt.org,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
+DOMAIN-KEYWORD,announce,DIRECT
+DOMAIN-KEYWORD,torrent,DIRECT
+DOMAIN-KEYWORD,tracker,DIRECT
+DOMAIN-SUFFIX,brokenstones.club,DIRECT
+DOMAIN-SUFFIX,ither.cc,DIRECT
+DOMAIN-SUFFIX,secret-cinema.pw,DIRECT
+DOMAIN-SUFFIX,baconbits.org,DIRECT
+DOMAIN-SUFFIX,karagarga.in,DIRECT
+DOMAIN-SUFFIX,nebulance.io,DIRECT
 
 GEOIP,CN,DIRECT
