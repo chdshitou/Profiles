@@ -479,4 +479,12 @@ DOMAIN-SUFFIX,buzzsprout.com,PROXY
 DOMAIN-SUFFIX,podcastaddict.com,PROXY
 DOMAIN-KEYWORD,typlog,PROXY
 
+# > custom
+DOMAIN-SUFFIX,chinadigitaltimes.net,PROXY
+DOMAIN-KEYWORD,ilovexjp,PROXY
+DOMAIN-SUFFIX,cathayplay.com,PROXY
+DOMAIN-SUFFIX,proton.me,PROXY
+DOMAIN-KEYWORD,notion,PROXY
+DOMAIN-SUFFIX,rfa.org,PROXY
+DOMAIN-SUFFIX,nyti.ms,PROXY
 
