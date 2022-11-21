@@ -477,3 +477,6 @@ DOMAIN-SUFFIX,skype.com,PROXY
 DOMAIN-SUFFIX,bumingbai.net,PROXY
 DOMAIN-SUFFIX,buzzsprout.com,PROXY
 DOMAIN-SUFFIX,podcastaddict.com,PROXY
+DOMAIN-KEYWORD,typelog,PROXY
+
+
