@@ -37,6 +37,7 @@ DOMAIN,sms.imagetasks.com,DIRECT
 DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT
 DOMAIN,speedtest.macpaw.com,DIRECT
 # > Private Tracker
+DOMAIN-SUFFIX,star-space.net,PROXY
 DOMAIN-SUFFIX,abn.lol,DIRECT
 DOMAIN-SUFFIX,acg.rip,DIRECT
 DOMAIN-SUFFIX,alpharatio.cc,DIRECT
