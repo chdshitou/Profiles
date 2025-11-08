@@ -356,8 +356,9 @@ DOMAIN-KEYWORD,.pinterest.,PROXY
 DOMAIN-SUFFIX,pixiv.net,PROXY
 DOMAIN-SUFFIX,pixiv.org,PROXY
 DOMAIN-SUFFIX,pximg.net,PROXY
-# > pixiv
+# > Private Tracker
 DOMAIN-SUFFIX,star-space.net,PROXY
+DOMAIN-SUFFIX,torrentleech.org,PROXY
 # > Reddit
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
