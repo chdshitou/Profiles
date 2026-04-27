@@ -1,3 +1,7 @@
+# (D.C.S.G?)
+DOMAIN-SUFFIX,9cache.com,PROXY
+DOMAIN-SUFFIX,9gag.com,PROXY
+DOMAIN-SUFFIX,abc.com,PROXY
 # > Fanart
 DOMAIN-SUFFIX,assets.fanart.tv,Proxy
 # > Private Tracker
