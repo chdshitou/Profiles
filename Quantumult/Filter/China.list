@@ -3,6 +3,19 @@ DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
 DOMAIN-SUFFIX,steamserver.net,DIRECT
 # > Home
 DOMAIN-SUFFIX,xiaoyumao.fun,DIRECT
+# > PS5
+DOMAIN-SUFFIX,dl.playstation.net,DIRECT
+DOMAIN-SUFFIX,update.playstation.net,DIRECT
+DOMAIN-SUFFIX,playstationnetwork.com,DIRECT
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,DIRECT
+# > XBOX
+DOMAIN-SUFFIX,assets1.xboxlive.com,DIRECT
+DOMAIN-SUFFIX,assets2.xboxlive.com,DIRECT
+DOMAIN-SUFFIX,d.docs.live.net,DIRECT
+DOMAIN-SUFFIX,xboxone.blob.core.windows.net,DIRECT
+DOMAIN-SUFFIX,delivery.mp.microsoft.com,DIRECT
+DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-KEYWORD,microsoft-hohm,DIRECT
 # > Private Tracker
 DOMAIN-SUFFIX,sunnypt.top,DIRECT
 DOMAIN-SUFFIX,sunnytk.top,DIRECT
