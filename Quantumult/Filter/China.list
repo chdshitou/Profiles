@@ -1,8 +1,13 @@
+# > Home
+DOMAIN-SUFFIX,xiaoyumao.fun,DIRECT
 # > Steam
 DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
 DOMAIN-SUFFIX,steamserver.net,DIRECT
-# > Home
-DOMAIN-SUFFIX,xiaoyumao.fun,DIRECT
+# > battlenet
+DOMAIN-SUFFIX,battlenet.com.cn,DIRECT
+DOMAIN-SUFFIX,blizzard.com.cn,DIRECT
+DOMAIN-KEYWORD,battlenet,DIRECT
+DOMAIN-KEYWORD,blizzard,DIRECT
 # > PS5
 DOMAIN-SUFFIX,dl.playstation.net,DIRECT
 DOMAIN-SUFFIX,update.playstation.net,DIRECT
