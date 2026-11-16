@@ -1,0 +1,20 @@
+# JavDB 核心（必须代理）
+DOMAIN-SUFFIX,jdforrepam.com,PROXY（非日本节点）
+DOMAIN-SUFFIX,c0.jdbstatic.com,PROXY（非日本节点）
+DOMAIN-SUFFIX,tp.spfcas.com,PROXY（非日本节点）
+
+
+# 封面拼接（建议代理）
+DOMAIN-SUFFIX,pics.dmm.co.jp,PROXY（必须为日本节点）
+DOMAIN-SUFFIX,awsimgsrc.dmm.co.jp,PROXY（必须为日本节点）
+
+# 播放源
+DOMAIN-SUFFIX,jable.tv,PROXY
+DOMAIN-SUFFIX,memojav.com,PROXY
+DOMAIN-SUFFIX,javp.cc,PROXY
+DOMAIN-SUFFIX,javp.cc.cd,PROXY
+DOMAIN-SUFFIX,missav.ai,PROXY
+
+# 预告片/元数据
+DOMAIN-SUFFIX,fourhoi.com,PROXY
+DOMAIN-SUFFIX,image.mgstage.com,PROXY（必须为日本节点）
