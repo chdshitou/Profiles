@@ -1,6 +1,0 @@
-# 封面拼接（建议代理）
-DOMAIN-SUFFIX,pics.dmm.co.jp,PROXY
-DOMAIN-SUFFIX,awsimgsrc.dmm.co.jp,PROXY
-
-# 预告片/元数据
-DOMAIN-SUFFIX,image.mgstage.com,PROXY
